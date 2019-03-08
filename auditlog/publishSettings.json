@@ -1,0 +1,6 @@
+[
+    {
+        "Name": "EventHub",
+        "Url": "Endpoint=sb://{your event hub name}.servicebus.windows.net/;SharedAccessKeyName=aw;SharedAccessKey={your shared access key};EntityPath={some path}"
+    }
+]
