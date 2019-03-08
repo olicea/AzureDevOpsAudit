@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "auditlog": {
+      "commandName": "Project",
+      "commandLineArgs": "publish"
+    }
+  }
+}
