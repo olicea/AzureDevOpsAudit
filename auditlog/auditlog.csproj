@@ -9,7 +9,7 @@
     <PackageReference Include="Microsoft.Azure.EventHubs" Version="2.2.1" />
     <PackageReference Include="Microsoft.VisualStudio.Services.Audit.WebApi" Version="16.148.0-preview" />
     <PackageReference Include="Microsoft.VisualStudio.Services.Client" Version="16.148.0-preview" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
